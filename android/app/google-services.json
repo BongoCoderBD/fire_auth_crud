@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498230445799",
+    "project_id": "fire-auth-crud-3ef25",
+    "storage_bucket": "fire-auth-crud-3ef25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498230445799:android:6cfea7d5ca09449a528442",
+        "android_client_info": {
+          "package_name": "com.example.fire_auth_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrgJxp6BQf14DBMEqLqx_Xrg20LDsu8uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
